@@ -17,6 +17,3 @@ When a borrower's loan is **accepted** there will be 3 possible scenarios that h
 ## **Our Objectives**
 
 Make a Predictive Model to assist lending companies in their decision making to either **accept** or **reject** a loan, in hope to reduce error and increase company profits
-
-## **Raw Dataset**
-[Lending Club Loan Dataset (2007 - 2014)](https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/idx-partners/loan_data_2007_2014.csv)
