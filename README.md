@@ -1,5 +1,6 @@
 # Credit Risk Prediction
 ## ID/X Partners Data Scientist Project Based Internship Final Project
+![CreditRiskImage](https://github.com/user-attachments/assets/ebc5ce1f-1aa0-4601-b2cb-8321d83c4a9a)
 
 ## **Business Understanding**
 
